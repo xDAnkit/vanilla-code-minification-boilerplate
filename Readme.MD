@@ -2,7 +2,7 @@
 
 ## How to setup
 ```javascript
-npm install // Install NodeJS
+npm install // Make sure NodeJS should be installed
 ```
 
 ## How to run
